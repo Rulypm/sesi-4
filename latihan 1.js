@@ -1,0 +1,1 @@
+alert{'saya memanggil melalui alert'};
